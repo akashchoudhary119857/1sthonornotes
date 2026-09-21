@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: akashchoudhary119857.github.io/1sthonornotes
   ignorePatterns:
     - private
     - templates
