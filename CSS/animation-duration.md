@@ -1,0 +1,1 @@
+This property is used to define the time period for how much seconds we want to perform that particular animation
