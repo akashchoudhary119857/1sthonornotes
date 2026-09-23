@@ -1,88 +1,86 @@
-\---
+---
+title: B.Tech 1st Year Honors – EA & EB
+---
 
-title: B.Tech 1st Year Honors – EA \& EB
+#  B.Tech 1st Year Honors Notes
 
-\---
+## Welcome, EA & EB Students! 
 
+Welcome to your **B.Tech 1st Year Honors learning space**.
 
+This website contains **class notes, practical concepts, examples, programs, and learning resources** prepared to support you throughout your first-year journey.
 
-\# Welcome to My B.Tech 1st Year Honors Notes 🎓
+---
 
+##  About Your Trainer
 
+**Akash Kumar Choudhary**  
+Master Trainer
 
-\## Hello Students! 👋
+I am passionate about helping students build strong foundations in **programming, web development, software development, and practical problem-solving**.
 
+###  Professional Certifications
 
+- **Wipro Certified Faculty** – .NET
+- **GlobalLogic Certified** – SDET and Java Full Stack Development
+- **Google Certified** – Android App Development using Java
 
-Welcome to my \*\*B.Tech 1st Year Honors Notes\*\* website, specially created for the students of \*\*EA \& EB Sections\*\*.
+###  My Approach
 
+My aim is to make technical concepts **simple, practical, and easy to understand**, while encouraging students to learn by:
 
+> **Understanding Concepts → Writing Code → Practicing Problems → Building Applications**
 
-I’m \*\*Akash Kumar Choudhary\*\*, and this platform is designed to help you access your \*\*class notes, practical concepts, examples, programs, and important learning resources\*\* in one place.
+These notes are specially organized to support **B.Tech 1st Year Honors – EA & EB students** throughout their academic and practical learning journey.
+---
 
+##  Subjects
 
+###  HTML
+Concepts, tags, forms, tables, semantic HTML and practical examples.
 
-\##  What You’ll Find Here
+###  CSS
+Selectors, box model, display, Flexbox, positioning, layouts and responsive design.
 
+###  JavaScript
+Programming concepts, variables, functions, arrays, objects, DOM and practical programs.
 
+###  React
+UI fundamentals, Components building, practical examples.
 
-\- \*\*HTML\*\* – Concepts, tags, examples \& practicals
+---
 
-\- \*\*CSS\*\* – Styling, layouts, Flexbox, positioning \& responsive design
+##  For EA & EB Students
 
-\- \*\*JavaScript\*\* – Programming concepts, examples \& practical programs
+Use these notes to:
 
-\- \*\*React\*\* – Fundamental programming concepts and Components
+-  Revise concepts after class
+-  Practice programming examples
+-  Prepare for practical sessions
+-  Strengthen your fundamentals
+-  Prepare for assessments and examinations
+-  Quickly revise previously covered topics
 
+---
 
+##  Learning Approach
 
-\##  For EA \& EB Students
+> **Learn the Concept → Understand the Logic → Practice the Code → Build Something**
 
+Keep practicing and don't hesitate to ask questions whenever you get stuck.
 
+---
 
-These notes are prepared to support you throughout your \*\*B.Tech 1st Year Honors journey\*\*.
+##  Need Help?
 
+For doubts or clarification related to the notes and learning material, feel free to contact me on WhatsApp.
 
+** [WhatsApp: Ask me](https://wa.me/Ask me)**
 
-Use this website to:
+---
 
+#  Keep Learning. Keep Practicing. Keep Building.
 
+### Best wishes for your B.Tech journey!
 
-\- Revise concepts after class
-
-\- Practice programming examples
-
-\- Prepare for practical sessions
-
-\- Strengthen your fundamentals
-
-\- Quickly revisit important topics
-
-\- Prepare for examinations and assessments
-
-
-
-\##  Keep Learning
-
-
-
-> \*\*Learn the concept → Understand the logic → Practice the code → Build something.\*\*
-
-
-
-This website will continue to grow with new \*\*notes, examples, programs, practical exercises, and learning resources\*\*.
-
-
-
-\### Best wishes for your learning journey! 🌟
-
-
-
-\*\*Keep Learning. Keep Practicing. Keep Building.\*\*
-
-
-
-— \*\*Akash Kumar Choudhary\*\* 
-
-\*\*📱 \[WhatsApp: 9045404520](https://wa.me/919045405420)\*\*
-
+**— Akash Kumar Choudhary**
